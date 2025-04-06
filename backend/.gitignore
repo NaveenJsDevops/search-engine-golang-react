@@ -1,0 +1,4 @@
+.DS_Store
+*.go-parquet-read
+.go-parquet-read
+go-parquet-read
